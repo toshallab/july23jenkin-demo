@@ -18,3 +18,4 @@
 18th Commit
 webhook demo pipeline added
 added artifactory 
+added global environment variable 
