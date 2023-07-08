@@ -19,3 +19,4 @@
 webhook demo pipeline added
 added artifactory 
 added global environment variable 
+added local  environment variable 
