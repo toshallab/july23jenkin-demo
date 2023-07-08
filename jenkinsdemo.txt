@@ -17,3 +17,4 @@
  17th change
 18th Commit
 webhook demo pipeline added
+added artifactory 
